@@ -27,11 +27,11 @@ This project helped me understand and practice:
 
 ## 🗂️ Folder Structure
 
-kiwi/
-├── index.html
-├── style.css
-├── images/
-│ └── (Website images: banners, products, etc.)
-├── fonts/
-│ ├── Questrial-Regular.ttf
-│ └── quicksand.ttf
+kiwi/  
+├── index.html  
+├── style.css  
+├── images/  
+│ └── (Website images: banners, products, etc.)  
+├── fonts/  
+│ ├── Questrial-Regular.ttf  
+│ └── quicksand.ttf  
