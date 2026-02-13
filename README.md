@@ -106,8 +106,19 @@ Then open `http://localhost:8000` in your browser.
 
 All images and media are hotlinked from the original Kiwi Ice Cream CDN:
 - Logo: `https://kiwiicecreams.com/wp-content/uploads/2025/10/logo-white-2.webp`
-- Product images: `https://kiwiicecreams.com/wp-content/uploads/2020/06/...`
+- Favicon: `https://kiwiicecreams.com/wp-content/uploads/2025/10/favicon-150x150.jpg`
+- Product images (updated): `https://kiwiicecreams.com/wp-content/uploads/2022/03/...`
+  - Pistachio: Pistachio-293x293.jpg
+  - Vanilla: Vanilla-293x293.jpg
+  - Strawberry: Strawberry-293x293.jpg
+  - Pineapple: Pineapple-293x293.jpg
 - Decorative graphics: `https://kiwiicecreams.com/wp-content/uploads/2020/06/...`
+  - Hero: Group-7573.png
+  - Banner: Mask-Group-5.png
+  - Motto: Group-125.png
+  - Taste section: Group-4.png
+  - Blog/Journey: Blog-01-970x1049.jpg, Blog-02-970x1049.jpg
+  - Newsletter: Group-5.png, Group-6.png
 
 ## License
 
